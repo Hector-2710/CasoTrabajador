@@ -2,8 +2,8 @@ package Dominio;
 
 public class Persona {
 
-	private string nombre;
-	private string apellido;
+	private String nombre;
+	private String apellido;
 	private int rut;
 
 }
